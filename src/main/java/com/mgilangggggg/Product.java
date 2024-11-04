@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.mgilangggggg;
 
 /**
  * Kelas yang merepresentasikan barang dalam inventaris.
